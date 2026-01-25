@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics, Control and Intelligent Systems, EPFL, 2025 - Present
+* M.S. in Robotics (Research), Singapore University of Technology and Design (SUTD), 2021 - 2022
+* B.S. in Engineering Product Development, Singapore University of Technology and Design (SUTD), 2018 - 2021
 
 Work experience
 ======
